@@ -26,7 +26,7 @@
 
 > 服务商一般会提供 Stash / Clash Premium / Clash 的订阅链接，最简单的方式是在 Stash 中导入机场订阅。
 
-先进行 [订阅购买](https://shortlink181.github.io/1) ，获取到订阅链接。订阅链接位于：仪表盘 > 一键订阅 , 然后复制订阅地址或者扫描二维码订阅。
+先进行 [订阅购买](https://shortlink.20250812.xyz/1) ，获取到订阅链接。订阅链接位于：仪表盘 > 一键订阅 , 然后复制订阅地址或者扫描二维码订阅。
     
 
 ![Remote Configuration](https://yunqijpg.oss-cn-hongkong.aliyuncs.com/wc2.jpg)
